@@ -1,4 +1,4 @@
-# 🚀 SkillSwap AI - Hackathon Winning Platform
+# 🚀 SkillSwap AI
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react" alt="React" />
@@ -284,7 +284,7 @@ src/
 
 ---
 
-## 🏆 **Why This Wins Hackathons**
+<!-- ## 🏆 **Why This Wins Hackathons** -->
 
 ### **Innovation Score: 10/10**
 - ✅ Cutting-edge AI integration with fallback reliability
